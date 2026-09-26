@@ -21,8 +21,6 @@ Operating at the intersection of Digital Signal Processing (DSP) and Deep Learni
 
 ## 🌟 Key Highlights & AI Engineering
 
-For Technical Recruiters, Hiring Managers, and AI Engineers reviewing this project, here is what makes this architecture stand out:
-
 ### 1. Progressive Model Architectures (`src/models.py`)
 Instead of relying on a single monolithic model, this project implements and benchmarks three distinct neural paradigms:
 - **Baseline CNN (Milestone-3):** A deep 2D-CNN feature extractor utilizing `AdaptiveAvgPool2d` for spatial dimensionality reduction.
