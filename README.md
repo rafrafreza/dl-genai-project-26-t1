@@ -5,8 +5,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <br />
   <br />
-  <h2>🎵 Deep Learning Music Genre Classifier & Mashup Analyzer</h2>
+  <h2>🎵 AcousticNet | Deep Audio & Genre Classifier</h2>
   <p><b>Advanced Audio Processing with CRNNs & Vision Transformers</b></p>
+  <p><i>(Originally developed as DL & GenAI Project [dl-genai-project-26-t1] at IIT Madras)</i></p>
   
   [![Live Demo](https://img.shields.io/badge/Live_Demo-Hugging_Face_Space-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/ghazi-r3/music-genre-classifier)
 </div>
